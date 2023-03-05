@@ -23,6 +23,8 @@
 
 - 📄 Know about my experiences [https://yudipupreti.com.np/yu-cv.pdf](https://yudipupreti.com.np/yu-cv.pdf)
 
+- ⚡ Fun fact **The popular mobile game "Angry Birds" was inspired by a sketch of birds without wings by the game's lead designer.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yudip_upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yudip_upreti" height="30" width="40" /></a>
