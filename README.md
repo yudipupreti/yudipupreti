@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Yudip.</h1>
-<h3 align="center">I am a passionate game developer with years of experience in creating fun and engaging gaming experiences for players. I believe that games are not just a form of entertainment, but a powerful medium to inspire, educate and connect people from all walks of life.</h3>
+<h4 align="center">I am a passionate game developer with years of experience in creating fun and engaging gaming experiences for players.</h4>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.cd37fa49c983ac905df0016fd5b6a2ee?rik=XYhzlatbpAHWnA&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yudipupreti&label=Profile%20views&color=0e75b6&style=flat" alt="yudipupreti" /> </p>
