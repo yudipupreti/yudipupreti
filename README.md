@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://th.bing.com/th/id/OIP.HoxWjwLdh3-lWaBqj44kZQHaEK?pid=ImgDet&rs=1)
 <h2 align="center">Hi 👋, I'm Yudip.</h2>
 <h3 align="center">I am a passionate game developer with years of experience in creating fun and engaging gaming experiences for players.</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.cd37fa49c983ac905df0016fd5b6a2ee?rik=XYhzlatbpAHWnA&pid=ImgRaw&r=0">
